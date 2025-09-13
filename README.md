@@ -1,4 +1,4 @@
-# Hi there, I'm Yuril! 👋
+# Hi there, I'm Yurii! 👋
 
 🚀 **Full-Stack Web Developer** with 8+ years of experience turning ideas into fast, modern, and scalable web applications.
 
