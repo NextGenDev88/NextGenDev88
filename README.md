@@ -1,6 +1,11 @@
-# Hi there, I'm Yurii! 👋
 
-🚀 **Full-Stack Web Developer** with 8+ years of experience turning ideas into fast, modern, and scalable web applications.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Yurii;Fullstack+AI+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30">
+  </a>
+</h1>
+
+🚀 **Full-Stack AI Developer** with 8+ years of experience turning ideas into fast, modern, and scalable web applications.
 
 ## 🛠️ Tech Stack
 
